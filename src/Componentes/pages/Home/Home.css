@@ -1,0 +1,40 @@
+.Home {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Container {
+    height: 657px;
+    position: relative;
+}
+
+.Imagen {
+    display: flex;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+
+.Imagen-Home {
+    object-fit: cover;
+    position: relative;
+    top: 0;
+}
+
+.promovemos {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    position: absolute;
+    text-align: center;
+    top: 347px;
+}
+
+.Logo {
+    position: absolute;
+    top: 80px;
+}
